@@ -45,7 +45,7 @@ Untuk masuk ke sistem, gunakan akun berikut:
 
 Username: admin
 
-Password: admin
+Password: 123
 
 ✨ Fitur Aplikasi
 Tambah Buku: Menambahkan judul dan pengarang baru.
